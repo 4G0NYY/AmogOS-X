@@ -4,6 +4,7 @@ Arch Linux edition of AmogOS
 ## Discord Servers
 https://discord.gg/ZEgVgEzSxz <- Arch version support  
 https://discord.gg/WcPRRezhZV <- Main Debian version support (you probably wont receive support on the arch version)
+https://discord.gg/gpt4k7jBbv <- My (4G0NYY's) Discord, I don't have much time, but if you need help with the Arch Version, your best bet is here.
 
 ## Differences
 This version is based on Arch Linux for a rolling distro experience, so that you can use all of the latest packages like python 3.10 without using unstable repos.
